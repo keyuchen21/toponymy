@@ -7,13 +7,26 @@ Toponymy
   :align: center
   :alt: Toponymy
 
+<!-- ── HERO block ── -->
+<div align="center">
+
+<!-- Logo (auto dark/light) -->
+<picture>
+  <source srcset="https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/66ef0317ed8616151ee1d451_superlinked_logo_white.png"
+          media="(prefers-color-scheme: dark)">
+  <img width="320"
+       src="https://cdn.prod.website-files.com/65dce6831bf9f730421e2915/65dce6831bf9f730421e2929_superlinked_logo.svg"
+       alt="Superlinked logo">
+</picture>
+
 <!-- Primary CTA -->
 <p>
-  <a href="https://deepwiki.com/TutteInstitute/toponymy" style="text-decoration:none;display:inline-block">
+  <a href="https://links.superlinked.com/deep_wiki_repo" style="text-decoration:none;display:inline-block">
     <img src="https://img.shields.io/badge/chat%20with%20our%20AI%20docs-%E2%86%92-72A1FF?style=for-the-badge&logo=readthedocs&logoColor=white"
          alt="chat with our AI docs" width="200">
   </a>
 </p>
+
 <!-- Secondary badges -->
 <p style="margin:6px 0;text-decoration:none">
   <a href="https://docs.superlinked.com/"                     style="text-decoration:none;display:inline-block"><img src="https://img.shields.io/badge/Docs-orange?logo=readthedocs"                                        alt="Docs"></a>
@@ -29,6 +42,7 @@ Toponymy
 <p align="center">
   <em>Superlinked is a Python framework for AI Engineers building <b>high-performance search &amp; recommendation applications</b> that combine <b>structured</b> and <b>unstructured</b> data. </em>
 </p>
+
 
 
 The package name Toponymy is derived from the Greek topos ‘place’ + onuma ‘name’.  Thus, the naming of places.  
