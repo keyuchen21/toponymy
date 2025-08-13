@@ -8,6 +8,40 @@ Toponymy
   :alt: Toponymy
 
 
+.. raw:: html
+
+    <!-- Hero block -->
+    <div align="center">
+
+    <!-- Logo -->
+    <img src="https://your-domain.com/path/to/logo.png" alt="Toponymy logo" width="320">
+
+    <!-- Primary CTA -->
+    <p>
+      <a href="https://your-link-here.com" style="text-decoration:none;display:inline-block">
+        <img src="https://img.shields.io/badge/chat%20with%20our%20AI%20docs-%E2%86%92-72A1FF?style=for-the-badge&logo=readthedocs&logoColor=white"
+             alt="chat with our AI docs" width="200">
+      </a>
+    </p>
+
+    <!-- Secondary badges -->
+    <p style="margin:6px 0;text-decoration:none">
+      <a href="https://your-docs-link.com" style="text-decoration:none;display:inline-block">
+        <img src="https://img.shields.io/badge/Docs-orange?logo=readthedocs" alt="Docs">
+      </a>
+      <a href="https://pypi.org/project/toponymy/" style="text-decoration:none;display:inline-block">
+        <img src="https://img.shields.io/pypi/v/toponymy" alt="PyPI">
+      </a>
+      <a href="https://github.com/your-username/toponymy/stargazers" style="text-decoration:none;display:inline-block">
+        <img src="https://img.shields.io/github/stars/your-username/toponymy?style=social" alt="Stars">
+      </a>
+      <img src="https://img.shields.io/github/last-commit/your-username/toponymy" alt="Last commit">
+      <img src="https://img.shields.io/github/license/your-username/toponymy" alt="License">
+    </p>
+
+    </div>
+
+
 
 
 The package name Toponymy is derived from the Greek topos ‘place’ + onuma ‘name’.  Thus, the naming of places.  
