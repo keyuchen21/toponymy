@@ -13,9 +13,6 @@ Toponymy
     <!-- Hero block -->
     <div align="center">
 
-    <!-- Logo -->
-    <img src="https://your-domain.com/path/to/logo.png" alt="Toponymy logo" width="320">
-
     <!-- Primary CTA -->
     <p>
       <a href="https://your-link-here.com" style="text-decoration:none;display:inline-block">
@@ -24,20 +21,6 @@ Toponymy
       </a>
     </p>
 
-    <!-- Secondary badges -->
-    <p style="margin:6px 0;text-decoration:none">
-      <a href="https://your-docs-link.com" style="text-decoration:none;display:inline-block">
-        <img src="https://img.shields.io/badge/Docs-orange?logo=readthedocs" alt="Docs">
-      </a>
-      <a href="https://pypi.org/project/toponymy/" style="text-decoration:none;display:inline-block">
-        <img src="https://img.shields.io/pypi/v/toponymy" alt="PyPI">
-      </a>
-      <a href="https://github.com/your-username/toponymy/stargazers" style="text-decoration:none;display:inline-block">
-        <img src="https://img.shields.io/github/stars/your-username/toponymy?style=social" alt="Stars">
-      </a>
-      <img src="https://img.shields.io/github/last-commit/your-username/toponymy" alt="Last commit">
-      <img src="https://img.shields.io/github/license/your-username/toponymy" alt="License">
-    </p>
 
     </div>
 
