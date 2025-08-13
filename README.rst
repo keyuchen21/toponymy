@@ -14,6 +14,21 @@ Toponymy
          alt="chat with our AI docs" width="200">
   </a>
 </p>
+<!-- Secondary badges -->
+<p style="margin:6px 0;text-decoration:none">
+  <a href="https://docs.superlinked.com/"                     style="text-decoration:none;display:inline-block"><img src="https://img.shields.io/badge/Docs-orange?logo=readthedocs"                                        alt="Docs"></a>
+  <a href="https://deepwiki.com/superlinked/superlinked"      style="text-decoration:none;display:inline-block"><img src="https://deepwiki.com/badge.svg"                                                       alt="DeepWiki"></a>
+  <a href="https://pypi.org/project/superlinked/"             style="text-decoration:none;display:inline-block"><img src="https://img.shields.io/pypi/v/superlinked"                                             alt="PyPI"></a>
+  <a href="https://github.com/superlinked/superlinked/stargazers" style="text-decoration:none;display:inline-block"><img src="https://img.shields.io/github/stars/superlinked/superlinked?style=social" alt="Stars"></a>
+  <img src="https://img.shields.io/github/last-commit/superlinked/superlinked" style="display:inline-block" alt="Last commit">
+  <img src="https://img.shields.io/github/license/superlinked/superlinked"     style="display:inline-block" alt="License">
+</p>
+
+</div>
+
+<p align="center">
+  <em>Superlinked is a Python framework for AI Engineers building <b>high-performance search &amp; recommendation applications</b> that combine <b>structured</b> and <b>unstructured</b> data. </em>
+</p>
 
 
 The package name Toponymy is derived from the Greek topos ‘place’ + onuma ‘name’.  Thus, the naming of places.  
